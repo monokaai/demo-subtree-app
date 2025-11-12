@@ -74,3 +74,9 @@ pnpm run lint
 - `tsconfig.json` - プロジェクトTypeScript設定
 - `jest.config.js` - Jest設定
 - `Dockerfile` - コンテナイメージビルド
+
+## 最近の更新
+
+- v1.2.0 (2025-11-11): pnpm管理とunit/e2eテスト追加
+- v1.1.0 (2025-11-11): バージョン情報モジュール追加
+- ルートリポジトリから直接更新可能（git subtree push で反映）
